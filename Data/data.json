@@ -1,0 +1,394 @@
+{
+  "bengalChefs": [
+    {
+      "id": 1,
+      "chefPicture": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "chefName": "Torikul Islam",
+      "yearsOfExperience": 10,
+      "numRecipes": 50,
+      "likes": 100,
+      "recipes": [
+        {
+          "recipeName": "Bengali Fish Curry",
+          "ingredients": [
+            "fish",
+            "onion",
+            "ginger",
+            "garlic",
+            "tomato"
+          ],
+          "cookingMethod": "stove",
+          "instructions": "1. Heat oil in a pan 2. Add onion, ginger and garlic 3. Add tomato 4. Add fish 5. Add spices 6. Cook until fish is done.",
+          "rating": 4.5
+        },
+        {
+          "recipeName": "Chingri Malai Curry",
+          "ingredients": [
+            "shrimp",
+            "coconut milk",
+            "cumin",
+            "coriander",
+            "green chili"
+          ],
+          "cookingMethod": "stove",
+          "instructions": "1. Heat oil in a pan 2. Add cumin, coriander and green chili 3. Add shrimp 4. Add coconut milk 5. Cook until shrimp is done.",
+          "rating": 4.7
+        },
+        {
+          "recipeName": "Kosha Mangsho",
+          "ingredients": [
+            "mutton",
+            "onion",
+            "garlic",
+            "ginger",
+            "tomato"
+          ],
+          "cookingMethod": "pressure cooker",
+          "instructions": "1. Heat oil in a pressure cooker 2. Add onion, garlic and ginger 3. Add tomato 4. Add mutton 5. Add spices 6. Pressure cook until mutton is done.",
+          "rating": 4.8
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chefPicture": "https://images.unsplash.com/photo-1576237680582-75be01432ca6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "chefName": "Khukon Khondokar",
+      "yearsOfExperience": 8,
+      "numRecipes": 30,
+      "likes": 50,
+      "recipes": [
+        {
+          "recipeName": "Aloo Posto",
+          "ingredients": [
+            "potato",
+            "poppy seeds",
+            "green chili",
+            "mustard oil",
+            "salt"
+          ],
+          "cookingMethod": "stove",
+          "instructions": "1. Peel and cut the potatoes 2. Grind poppy seeds and green chili 3. Heat mustard oil in a pan 4. Add potatoes 5. Add poppy seed paste 6. Add salt 7. Cook until potatoes are done.",
+          "rating": 4.0
+        },
+        {
+          "recipeName": "Luchi",
+          "ingredients": [
+            "flour",
+            "oil",
+            "salt",
+            "water",
+            "cumin black"
+          ],
+          "cookingMethod": "deep frying",
+          "instructions": "1. Mix flour, salt and oil 2. Add water and knead the dough 3. Make small balls 4. Roll them into small circles 5. Deep fry in oil until they are puffed and golden brown.",
+          "rating": 4.3
+        },
+        {
+          "recipeName": "Mishti Doi",
+          "ingredients": [
+            "milk",
+            "sugar",
+            "yogurt",
+            "cardamom",
+            "saffron"
+          ],
+          "cookingMethod": "oven",
+          "instructions": "1. Boil milk and add sugar 2 . Cool the milk to room temperature 3. Add yogurt and mix well 4. Add cardamom and saffron 5. Pour the mixture into small bowls 6. Bake in a preheated oven at 180 degrees Celsius for 30 minutes.",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chefPicture": "https://images.unsplash.com/photo-1622221410151-2e0c403c5c38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "chefName": "Habibur Islam",
+      "yearsOfExperience": 12,
+      "numRecipes": 70,
+      "likes": 200,
+      "recipes": [
+        {
+          "recipeName": "Shukto",
+          "ingredients": [
+            "bitter gourd",
+            "potato",
+            "brinjal",
+            "radish",
+            "green banana"
+          ],
+          "cookingMethod": "stove",
+          "instructions": "1. Cut all the vegetables into small pieces 2. Boil the vegetables in water with salt and turmeric powder 3. Drain the water and keep the vegetables aside 4. Heat oil in a pan 5. Add mustard seeds and cumin seeds 6. Add the boiled vegetables 7. Add spices and sugar 8. Cook for a few minutes.",
+          "rating": 4.2
+        },
+        {
+          "recipeName": "Macher Jhol",
+          "ingredients": [
+            "fish",
+            "potato",
+            "onion",
+            "tomato",
+            "green chili"
+          ],
+          "cookingMethod": "stove",
+          "instructions": "1. Cut fish and potato into small pieces 2. Heat oil in a pan 3. Add onion, green chili and tomato 4. Add fish and potato 5. Add spices and salt 6. Cook until fish and potato are done.",
+          "rating": 4.6
+        },
+        {
+          "recipeName": "Sandesh",
+          "ingredients": [
+            "paneer",
+            "sugar",
+            "cardamom",
+            "pistachios",
+            "Milk(sometime)"
+          ],
+          "cookingMethod": "stove",
+          "instructions": "1. Heat paneer in a pan 2. Add sugar and cardamom 3. Cook until the mixture thickens 4. Take it off the heat and let it cool 5. Make small balls 6. Garnish with pistachios.",
+          "rating": 4.8
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chefPicture": "https://images.unsplash.com/photo-1488905971602-47901d26961b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "chefName": "Tarek Monoyar",
+      "yearsOfExperience": 15,
+      "numRecipes": 100,
+      "likes": 300,
+      "recipes": [
+        {
+          "recipeName": "Kathi Roll",
+          "ingredients": [
+            "paratha",
+            "chicken",
+            "onion",
+            "tomato",
+            "green chili"
+          ],
+          "cookingMethod": "stove",
+          "instructions": "1. Cut chicken, onion, tomato and green chili into small pieces 2. Heat oil in a pan 3. Add chicken, onion, tomato and green chili 4. Add spices and salt 5. Cook until chicken is done 6. Heat paratha on a tawa 7. Put the chicken mixture on the paratha and roll it.",
+          "rating": 4.4
+        },
+        {
+          "recipeName": "Bhapa Ilish",
+          "ingredients": [
+            "hilsa fish",
+            "mustard paste",
+            "green chili",
+            "curry leaves",
+            "coconut milk"
+          ],
+          "cookingMethod": "steaming",
+          "instructions": "1. Clean and cut the hilsa fish into pieces 2. Mix mustard paste with water 3. Add green chili and curry leaves to the mixture 4. Add the fish pieces to the mixture and marinate for 30 minutes 5. Pour coconut milk into a steaming pot 6. Add the marinated fish and the marinade mixture to the pot 7. Steam for 20 minutes.",
+          "rating": 4.9
+        },
+        {
+          "recipeName": "Mishti Doi",
+          "ingredients": [
+            "milk",
+            "sugar",
+            "yogurt",
+            "water",
+            "Milk Powder"
+          ],
+          "cookingMethod": "oven",
+          "instructions": "1. Boil milk and sugar in a pan 2. Cool the milk to room temperature 3. Add yogurt and mix well 4. Pour the mixture into small bowls 5. Bake in a preheated oven at 180 degrees Celsius for 30 minutes.",
+          "rating": 4.6
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "chefPicture": "https://images.unsplash.com/flagged/photo-1561350117-501b4661f8d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "chefName": "Jabed Mojumder",
+      "yearsOfExperience": 20,
+      "numRecipes": 150,
+      "likes": 500,
+      "recipes": [
+        {
+          "recipeName": "Dhokla",
+          "ingredients": [
+            "gram flour",
+            "curd",
+            "water",
+            "green chili",
+            "ginger"
+          ],
+          "cookingMethod": "steaming",
+          "instructions": "1. Mix gram flour, curd and water in a bowl 2. Add green chili and ginger to the mixture 3. Mix well and let it rest for 30 minutes 4. Grease a steaming plate with oil 5. Pour the mixture into the plate 6. Steam for 15 minutes.",
+          "rating": 4.3
+        },
+        {
+          "recipeName": "Aloo Paratha",
+          "ingredients": [
+            "wheat flour",
+            "potato",
+            "green chili",
+            "coriander leaves",
+            "ghee"
+          ],
+          "cookingMethod": "stove",
+          "instructions": "1. Boil potato and mash it 2. Add green chili and coriander leaves to the mashed potato 3. Mix well 4. Make dough from wheat flour and water 5. Roll the dough into a small circle 6. Put the potato mixture in the center of the circle 7. Fold the circle and roll it into a bigger circle 8. Cook on a tawa with ghee until both sides are golden brown.",
+          "rating": 4.7
+        },
+        {
+          "recipeName": "Rasgulla",
+          "ingredients": [
+            "milk",
+            "chana",
+            "lemon juice",
+            "sugar",
+            "water"
+          ],
+          "cookingMethod": "stove",
+          "instructions": "1. Boil milk in a pan 2. Add lemon juice to the boiling milk and stir until the milk curdles 3. Drain the whey using a cheesecloth 4. Rinse the curdled milk with cold water to remove any lemon taste 5. Squeeze the cheesecloth to remove excess water 6. Make small balls from the curdled milk 7. Boil sugar and water in a pan 8. Add the balls to the pan 9. Cook for 15 minutes.",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "chefPicture": "https://images.unsplash.com/photo-1562514155-444b9a967dfa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "chefName": "Showrob Paul",
+      "yearsOfExperience": 25,
+      "numRecipes": 200,
+      "likes": 700,
+      "recipes": [
+        {
+          "recipeName": "Chicken Curry",
+          "ingredients": [
+            "chicken",
+            "onion",
+            "ginger garlic paste",
+            "tomato",
+            "spices"
+          ],
+          "cookingMethod": "stove",
+          "instructions": "1. Heat oil in a pan 2. Add chopped onion and cook until golden brown 3. Add ginger garlic paste and cook for 2 minutes 4. Add chopped tomato and cook until soft 5. Add spices and cook for 1 minute 6. Add chicken and cook for 10 minutes 7. Add water and cook until the chicken is tender.",
+          "rating": 4.8
+        },
+        {
+          "recipeName": "Chaat",
+          "ingredients": [
+            "potato",
+            "chickpeas",
+            "yogurt",
+            "tamarind chutney",
+            "mint chutney"
+          ],
+          "cookingMethod": "none",
+          "instructions": "1. Boil potato and chickpeas 2. Cut the potato into small pieces 3. Add yogurt, tamarind chutney and mint chutney to the mixture 4. Mix well and serve chilled.",
+          "rating": 4.6
+        },
+        {
+          "recipeName": "Biriyani",
+          "ingredients": [
+            "rice",
+            "chicken",
+            "spices",
+            "onion",
+            "yogurt"
+          ],
+          "cookingMethod": "stove",
+          "instructions": "1. Cook rice in a pot and keep aside 2. Heat oil in a pan 3. Add sliced onion and cook until golden brown 4. Add chicken and cook for 10 minutes 5. Add spices and cook for 1 minute 6. Add yogurt and cook for 5 minutes 7. Layer the rice and chicken mixture in a pot 8. Cook on low heat for 30 minutes.",
+          "rating": 4.9
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "chefPicture": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=787&q=80",
+      "chefName": "Rayhan Ali",
+      "yearsOfExperience": 15,
+      "numRecipes": 120,
+      "likes": 300,
+      "recipes": [
+        {
+          "recipeName": "Luchi",
+          "ingredients": [
+            "flour",
+            "water",
+            "salt",
+            "oil"
+          ],
+          "cookingMethod": "stove",
+          "instructions": "1. Make dough from flour, water, salt and oil 2. Let it rest for 30 minutes 3. Make small balls from the dough 4. Roll each ball into a small circle 5. Heat oil in a pan 6. Fry the circles until golden brown.",
+          "rating": 4.4
+        },
+        {
+          "recipeName": "Chingri Malai Curry",
+          "ingredients": [
+            "prawn",
+            "coconut milk",
+            "spices",
+            "onion",
+            "green chili"
+          ],
+          "cookingMethod": "stove",
+          "instructions": "1. Heat oil in a pan 2. Add sliced onion and cook until golden brown 3. Add prawn and cook for 5 minutes 4. Add spices and cook for 1 minute 5. Add coconut milk and cook for 5 minutes 6. Add green chili and cook for 1 minute.",
+          "rating": 4.7
+        },
+        {
+          "recipeName": "Sandesh",
+          "ingredients": [
+            "milk",
+            "lemon juice",
+            "sugar",
+            "cardamom",
+            "pistachio"
+          ],
+          "cookingMethod": "stove",
+          "instructions": "1. Boil milk and add lemon juice to it to make paneer 2. Strain the mixture to remove whey 3. Knead the paneer until smooth 4. Add sugar and cardamom to the mixture 5. Make small balls from the mixture 6. Garnish with pistachio.",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "chefPicture": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "chefName": "Keka Ferdous",
+      "yearsOfExperience": 10,
+      "numRecipes": 90,
+      "likes": 250,
+      "recipes": [
+        {
+          "recipeName": "Fish Curry",
+          "ingredients": [
+            "fish",
+            "onion",
+            "tomato",
+            "spices",
+            "mustard oil"
+          ],
+          "cookingMethod": "stove",
+          "instructions": "1. Heat mustard oil in a pan 2. Add sliced onion and cook until golden brown 3. Add chopped tomato and cook until soft 4. Add spices and cook for 1 minute 5. Add fish and cook for 10 minutes.",
+          "rating": 4.4
+        },
+        {
+          "recipeName": "Aloo Posto",
+          "ingredients": [
+            "potato",
+            "poppy seeds",
+            "green chili",
+            "mustard oil",
+            "salt"
+          ],
+          "cookingMethod": "stove",
+          "instructions": "1. Boil potato and cut it into small pieces 2. Grind poppy seeds and green chili to make a paste 3. Heat mustard oil in a pan 4. Add the paste and cook for 2 minutes 5. Add the potato and salt 6. Cook for 5 minutes.",
+          "rating": 4.3
+        },
+        {
+          "recipeName": "Mango Lassi",
+          "ingredients": [
+            "mango",
+            "yogurt",
+            "sugar",
+            "cardamom"
+          ],
+          "cookingMethod": "none",
+          "instructions": "1. Blend mango, yogurt, sugar and cardamom in a blender 2. Serve chilled.",
+          "rating": 4.7
+        }
+      ]
+    }
+  ]
+}
