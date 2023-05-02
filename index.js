@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
 
 app.get('/chef/:id', (req, res) => {
   const id = req.params.id;
-  const chef = chefs_info.find(x => x.id === id)
+  const chef = chefs_info.find(x => x.id === +id)
   res.send(chef);
 })
 
