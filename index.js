@@ -1,8 +1,9 @@
 const express = require('express');
 const cors = require('cors');
 const chefs_info = require('./Data/data.json')
+require("dotenv").config();
 const app = express();
-const port = 55555
+const port = process.env.PORT || 55555
 
 app.use(cors())
 
@@ -19,3 +20,5 @@ app.get('/chef/:id', (req, res) => {
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
+
+// $ npm install dotenv
