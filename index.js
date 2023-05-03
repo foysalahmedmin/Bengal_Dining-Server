@@ -3,9 +3,9 @@ const cors = require('cors');
 const chefs_info = require('./Data/data.json')
 require("dotenv").config();
 const app = express();
-const port = process.env.PORT || 55555
+const port = process.env.PORT || 5000 ;
 
-app.use(cors())
+app.use(cors()) ;
 
 app.get('/', (req, res) => {
   res.send(chefs_info);
@@ -22,3 +22,4 @@ app.listen(port, () => {
 })
 
 // $ npm install dotenv
+// vercel --prod
