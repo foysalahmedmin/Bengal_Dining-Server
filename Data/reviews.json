@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Rahul",
+        "image": "https://www.hakuhodo-global.com/wp_admin/wp-content/uploads/2023/04/People_Jedd_1400x1040_bnw.png",
+        "review": "The food at Bengal Foods is fantastic! I particularly loved the Chicken Biryani and the Beef Curry. The spices were just right and the meat was so tender. The service was also excellent.",
+        "location": "Dhaka, Bangladesh",
+        "reviewDate": "2022-04-10"
+    },
+    {
+        "id": 2,
+        "name": "Sadia",
+        "image": "https://www.hakuhodo-global.com/wp_admin/wp-content/uploads/2021/12/People_Rita_main_1400.jpg",
+        "review": "Bengal Foods has some of the best samosas I've ever tasted. The pastry was crispy and the filling was flavorful. I also enjoyed the Lentil Soup and the Chicken Tikka Masala. The staff were friendly and attentive.",
+        "location": "Chittagong, Bangladesh",
+        "reviewDate": "2022-03-22"
+    },
+    {
+        "id": 3,
+        "name": "Kamal",
+        "image": "https://www.hakuhodo-global.com/wp_admin/wp-content/uploads/2022/12/People_Michael-Dee_1400x1040bnw.png",
+        "review": "I appreciate the variety of vegetarian options available at Bengal Foods. The Paneer Tikka and the Vegetable Korma were both delicious. I also enjoyed the Naan Bread and the Mango Lassi. The ambiance of the restaurant was lovely.",
+        "location": "Rajshahi, Bangladesh",
+        "reviewDate": "2022-05-01"
+    },
+    {
+        "id": 4,
+        "name": "Nadia",
+        "image": "https://www.hakuhodo-global.com/wp_admin/wp-content/uploads/2021/11/people_ito-san_1400x1040.png",
+        "review": "The desserts at Bengal Foods are a must-try! I had the Gulab Jamun and the Ras Malai, and both were heavenly. The staff were kind enough to explain the different options and make recommendations. I can't wait to go back.",
+        "location": "Khulna, Bangladesh",
+        "reviewDate": "2022-02-14"
+    },
+    {
+        "id": 5,
+        "name": "Saeed",
+        "image": "https://blog.photofeeler.com/wp-content/uploads/2017/12/linkedin-profile-picture.jpg",
+        "review": "The seafood at Bengal Foods is outstanding. The Fish Curry and the Shrimp Vindaloo were both bursting with flavor. The portion sizes were generous and the prices were reasonable. I highly recommend this restaurant.",
+        "location": "Sylhet, Bangladesh",
+        "reviewDate": "2022-01-05"
+    }
+]
